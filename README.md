@@ -1,3 +1,3 @@
-# Cold Call AI Releases
+# Cold Call AI public downloads
 
-Public binary installer downloads for Cold Call AI.
+This repository stores public installer binaries via Git LFS.
